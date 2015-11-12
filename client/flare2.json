@@ -1,0 +1,50 @@
+{
+ "name": "flare",
+ "children": [ {
+     "name": "cluster",
+     "children": [
+      {"name": "A", "size": 3938},
+      {"name": "B", "size": 3812},
+      {"name": "C", "size": 6714},
+      {
+       "name": "interpolate",
+       "children": [
+        {"name": "AA", "size": 983},
+        {
+         "name": "interpolate",
+         "children": [
+          {"name": "AAA", "size": 83},
+          {"name": "BBB", "size": 47},
+          {"name": "CCC", "size": 375},
+          {"name": "DDD", "size": 146},
+          {"name": "EEE", "size": 202},
+          {"name": "FFF", "size": 182},
+          {"name": "GGG", "size": 129},
+          {"name": "HHH", "size": 175},
+          {"name": "III", "size": 242}
+         ]
+        
+         
+        },
+        {"name": "CC", "size": 1375},
+        {"name": "DD", "size": 746},
+        {"name": "EE", "size": 2202},
+        {"name": "FF", "size": 1382},
+        {"name": "GG", "size": 129},
+        {"name": "HH", "size": 1675},
+        {"name": "II", "size": 242}
+       ]
+      },
+      {"name": "E", "size": 110},
+      {"name": "F", "size": 45},
+      {"name": "G", "size": 4564},
+      {"name": "H", "size": 875},
+      {"name": "I", "size": 1},
+      {"name": "J", "size": 87},
+      {"name": "K", "size": 198},
+      {"name": "L", "size": 354},
+      {"name": "M", "size": 506},
+      {"name": "N", "size": 807}
+      ]
+}]
+}
